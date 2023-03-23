@@ -1,0 +1,118 @@
+body{
+font-family: sans-serif;
+margin: 0;
+
+
+}
+
+a{
+
+text-decoration: none;
+color: black;
+
+}
+
+header{
+display: flex;
+background-color: chocolate;
+justify-content: space-between;
+align-items: center;
+
+}
+
+.logo{
+
+    display: flex;
+    align-items: center;
+}
+
+
+.logo img{
+
+height: 80px;
+
+}
+
+
+
+.Encabezado{
+    
+    display: flex;
+ background-color: chartreuse;
+
+    }
+
+.uno{
+display: flex;
+padding: 25px;
+}
+.texto{
+padding-left: 100px;
+
+
+}
+
+.dos{
+display: flex;
+padding-left: 200px;
+margin-top: 500px;
+
+}
+
+nav a{
+
+font-weight: 600;
+padding-right: 15px;
+
+}
+
+
+
+
+.redes{
+
+    display: flex;
+    align-items: center;
+background-color: chocolate;
+
+
+}
+
+
+nav a:hover{
+
+color: cyan;
+
+
+}
+
+.video{
+
+margin-top: 200px;
+display: flex;
+}
+
+.texto2{
+
+    align-items: center;
+display: flex;
+
+
+}
+
+
+.Mision{
+display: flex;
+justify-content: center;
+    margin-top: 200px;
+
+
+
+}
+
+.vision{
+display: flex;
+    justify-content: center;
+margin-top: 200px;
+
+}
